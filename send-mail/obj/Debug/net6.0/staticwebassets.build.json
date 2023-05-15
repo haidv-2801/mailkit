@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "POe0j7ZnWjhbQ4yiupP/7yl1vraDxRF2cFRoXhNth+0=",
+  "Source": "send-mail",
+  "BasePath": "_content/send-mail",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
